@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  💻 BCA Student | 🌐 Web Developer | 📊 Data Science Enthusiast
+  💻 BCA Student | 👨‍💻 Aspiring Developer | 📊 Data Science Enthusiast
 </h3>
 
 <p align="center">
@@ -18,54 +18,49 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class Chethan:
-    def __init__(self):
-        self.role = "BCA Student"
-        self.interests = [
-            "Web Development",
-            "Data Science",
-            "Python Programming"
-        ]
-        self.goal = "Build useful real-world projects"
-        self.mindset = "Learn, Build, Improve"
-
-    def say_hello(self):
-        print("Welcome to my GitHub! 🚀")
-
-me = Chethan()
-me.say_hello()
-```
-
-- 🔭 Exploring web development and data analysis projects.
-- 🌱 Learning Python, NumPy, Pandas and data visualization.
-- 💡 Interested in solving real-world problems with code.
-- 🎯 Focused on building projects and improving my skills.
-- ⚡ Fun fact: Every bug is another learning opportunity!
+- 🎓 BCA Student
+- 💻 Interested in programming and software development
+- 🐍 Exploring Python and Data Science
+- 📊 Learning data analysis and visualization
+- 🚀 Building projects and improving my coding skills
+- ⚡ Learn • Build • Experiment • Repeat
 
 ---
 
-## ⚙️ Tech Stack
-
-### 🌐 Web Development
+## 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,mongodb" alt="Web development skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" alt="C, C++, Java and Python" />
+  <img src="https://img.shields.io/badge/SQL-00F7FF?style=for-the-badge&logo=postgresql&logoColor=0D1117" alt="SQL" />
 </p>
 
-### 🐍 Programming & Data Science
+---
+
+## 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,mongodb" alt="Web development technologies" />
+</p>
+
+---
+
+## 📊 Data Science & Data Analysis
+
+<p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=00F7FF" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-00A6D6?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/SQL-00F7FF?style=for-the-badge&logo=postgresql&logoColor=0D1117" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite3" />
 </p>
 
-### 🛠️ Tools & Platforms
+---
+
+## 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Developer tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
 </p>
 
 ---
@@ -73,7 +68,7 @@ me.say_hello()
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chethan748&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00FF9F&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chethan748&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00FF9F&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethan748&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Most used languages" />
 </p>
 
@@ -83,14 +78,6 @@ me.say_hello()
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chethan748&hide_border=true&background=0D1117&ring=00F7FF&fire=00FF9F&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chethan748/chethan748/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
 ---
@@ -115,3 +102,4 @@ me.say_hello()
 <p align="center">
   <i>"Consistency beats motivation. Keep building."</i>
 </p>
+
