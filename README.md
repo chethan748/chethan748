@@ -9,11 +9,6 @@
   💻 BCA Student | 👨‍💻 Aspiring Developer | 📊 Data Science Enthusiast
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chethan748&label=PROFILE%20VIEWS&color=00f7ff&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/chethan748?label=FOLLOWERS&style=for-the-badge&color=00ff9f" alt="Followers" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -98,8 +93,4 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=500&lines=LEARN+%E2%80%A2+BUILD+%E2%80%A2+INNOVATE;Code+your+ideas+into+reality+%E2%9A%A1" alt="Footer animation" />
 </h3>
-
-<p align="center">
-  <i>"Consistency beats motivation. Keep building."</i>
-</p>
 
